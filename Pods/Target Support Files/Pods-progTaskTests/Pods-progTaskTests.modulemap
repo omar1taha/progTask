@@ -1,0 +1,6 @@
+framework module Pods_progTaskTests {
+  umbrella header "Pods-progTaskTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
